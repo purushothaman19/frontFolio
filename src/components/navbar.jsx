@@ -16,7 +16,7 @@ function Navbar() {
 
       <div className="top">
 
-        <h1 style={h1} className="title-name">Purushothaman</h1>
+        <h1 style={h1} className="title-name"> <a style={{"color" : "white"}} href="/"> Purushothaman </a> </h1>
 
       </div>
 
